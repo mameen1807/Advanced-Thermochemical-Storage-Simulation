@@ -25,7 +25,7 @@ This approach allows matching the storage temperature to specific industrial pro
 - Quantitative understanding of how reaction kinetics impact usable storage.
 
 ## 📷 Example Output
-![Pressure Graph](example_pressure.png)
+![Pressure Graph](advanced_Teq_vs_p.png)
 
 ## 🚀 How to Run
 ```bash
