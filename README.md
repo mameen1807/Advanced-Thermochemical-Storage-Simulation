@@ -26,7 +26,7 @@ This approach allows matching the storage temperature to specific industrial pro
 
 ## 📷 Example Output
 ![Pressure Graph](advanced_Teq_vs_p.png)
-
+![Pressure Graph](advanced_p_eq_vs_T.png)
 ## 🚀 How to Run
 ```bash
 python advanced_thermochemical_storage.py
